@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Adrian
-🔸 Computer Engineering student at the University of Texas at San Antonio (**UTSA**)
+## Hi there , I'm Adrian
+🔸 Electrical Engineering student at the University of Texas at San Antonio (**UTSA**)
 
 🔸 Currently learning **C programming** and **Digital logic design**
 
