@@ -1,8 +1,5 @@
 ## Hi there , I'm Adrian
 🔸 Electrical Engineering student at the University of Texas at San Antonio (**UTSA**)
-
-🔸 Currently learning **C programming** and **Digital logic design**
-
 🔸 San Antonio, TX -- Houston, TX
 
 :boom: My goal is to become an **Embedded systems Engineer**
