@@ -6,10 +6,6 @@
 :boom: My goal is to become an **Embedded systems Engineer**
 
 
-## Skills
-**Languages** C
-
-**Tools** VS Code, Arduino IDE,
 
 
 ## Connect
