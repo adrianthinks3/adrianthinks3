@@ -7,10 +7,7 @@
 
 
 ## Skills
-**Languages** C (beginner)
-
-**Harware** Arduino (beginner), digital logic circuits (simulation, breadboard)
-
+**Languages** C
 **Tools** VS Code, Arduino IDE,
 
 
